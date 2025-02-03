@@ -30,5 +30,3 @@ def fun(wordsDict,word1,word2):
             minDis = min(minDis,positions1[i+1] - positions1[i])
 
     return minDis
-
-print(fun(["practice", "makes", "perfect", "coding", "makes"], word1 = "makes", word2 = "makes"))
