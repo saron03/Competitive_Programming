@@ -1,3 +1,9 @@
+"""
+-Greedy Approach
+-Time Complexity: O(n)
+-Space Complexity: O(m)
+"""
+
 def fun(banned,n,maxSum):
     maxNums = 0
     curSum = 0
