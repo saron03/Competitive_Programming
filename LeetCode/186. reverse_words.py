@@ -23,5 +23,4 @@ def fun(s):
                 k -= 1
             j = i + 1
     return s
-print(fun(["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d"]
-))
+print(fun(["t","h","e"," ","s","k","y"," ","i","s"," ","b","l","u","e"]))
